@@ -32,7 +32,7 @@
 
 Kita lakukan extend error pertama dengan membuat class baru yaitu CustomErrorApi
 
-[](/images/customErrorApi.png)
+![](/images/customErrorApi.png)
 
 Setelah di extend dibuatlah sebuah custom error, Sebagai contoh kita buat class baru bernama BadRequest :
 ![](/images/CustomErrorBadRequest.png)
