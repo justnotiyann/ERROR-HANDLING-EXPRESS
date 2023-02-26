@@ -32,7 +32,7 @@
 
 Kita lakukan extend error pertama dengan membuat class baru yaitu CustomErrorApi
 
-![alt text](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/customErrorApi.png)
+![](/home/iyan/Downloads/tugas/Accur%20Decision(%20%209,1).PNG)
 
 ![](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/customErrorApi.png)
 
