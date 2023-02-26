@@ -32,6 +32,8 @@
 
 Kita lakukan extend error pertama dengan membuat class baru yaitu CustomErrorApi
 
+![alt text](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/customErrorApi.png)
+
 ![](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/customErrorApi.png)
 
 Setelah di extend dibuatlah sebuah custom error, Sebagai contoh kita buat class baru bernama BadRequest :
