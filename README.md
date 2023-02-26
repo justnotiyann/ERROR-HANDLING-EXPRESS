@@ -32,14 +32,10 @@
 
 Kita lakukan extend error pertama dengan membuat class baru yaitu CustomErrorApi
 
-![]('./images/customErrorApi.png')
-
-![](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/customErrorApi.png)
+[](/images/customErrorApi.png)
 
 Setelah di extend dibuatlah sebuah custom error, Sebagai contoh kita buat class baru bernama BadRequest :
-
-![](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/CustomErrorBadRequest.png)
-![]('./images/CustomErrorBadRequest.png')
+![](/images/CustomErrorBadRequest.png)
 
 Penjelasan kode diatas 
 
@@ -59,7 +55,7 @@ Setelah kita membuat custom error selanjutnya kita akan membuat routes khusus un
 Dan kita daftarkan pada routes pada file app.js kita
 
 ![](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/appUse.png)
-![]('./images/appUse.png')
+![](/images/appUse.png)
 
 
 ### RESPONSES
@@ -67,14 +63,14 @@ Dan kita daftarkan pada routes pada file app.js kita
 **BAD REQUEST**
 
 ![](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/bad%20request.png)
-![]('./images/bad%20request.png')
+![](/images/bad%20request.png)
 
 **NOT FOUND**
 
 ![](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/not%20found.png)
-![]('./images/not%20found.png')
+![](/images/not%20found.png)
 
 **UNAUTHORIZED**
 
 ![](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/unauthorized.png)
-![]('./images/unauthorized.png')
+![](/images/unauthorized.png)
