@@ -54,7 +54,7 @@ Penjelasan kode diatas
 Setelah kita membuat custom error selanjutnya kita akan membuat routes khusus untuk display error yang telah kita buat, Maka kodenya akan seperti berikut
 
 ![](/home/iyan/Documents/1.%20Folder%20Github/ERROR-HANDLING-EXPRESS/images/errorhandlingroutes.png)
-![]('./images/errorhandlingroutes.png')
+![](/images/errorhandlingroutes.png)
 
 Dan kita daftarkan pada routes pada file app.js kita
 
